@@ -46,3 +46,31 @@
 
 ![image](https://user-images.githubusercontent.com/45358173/235184040-43eab2c0-4bfb-4510-b0fd-045cce7f9709.png)
 
+
+
+
+
+
+به جای استفاده از تابع بازگشتی که بسیاری از منابع حافظه و سی پی یو را میگیرد از رویکرد تکرار و با استفاده از stack استفاده کردیم
+
+
+
+![image](https://user-images.githubusercontent.com/45358173/235187128-2fa0d79f-51e3-482c-a9a4-1d6cdfbf481c.png)
+
+![image](https://user-images.githubusercontent.com/45358173/235187215-a87828e1-9aff-4083-89f9-f4811a872e7a.png)
+
+![image](https://user-images.githubusercontent.com/45358173/235187259-6ff4581f-0f34-4e43-a598-eb0895c9ef71.png)
+
+![image](https://user-images.githubusercontent.com/45358173/235187305-a70cfd86-f804-421c-8a64-4c222a5b0789.png)
+
+
+یک ورودی طولانی تر را هم امتحان کردیم:
+
+![image](https://user-images.githubusercontent.com/45358173/235187399-6f37127c-2e09-4e15-9ca1-344c8ecd50c9.png)
+
+![image](https://user-images.githubusercontent.com/45358173/235187432-663f706e-6289-4522-b87b-6e1917a57c50.png)
+![image](https://user-images.githubusercontent.com/45358173/235187448-e7551ed7-aa2f-4c3c-8170-36c5ad1a8a8d.png)
+
+![image](https://user-images.githubusercontent.com/45358173/235187454-870bc5e5-d713-4dc2-acc7-5400cf5a92d1.png)
+
+
